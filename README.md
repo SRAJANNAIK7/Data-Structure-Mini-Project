@@ -1,4 +1,4 @@
-#Data Structures Mini Project
+# Data Structures Mini Project
 
 This Java project showcases the implementation of various data structures using Java Swing for the graphical interface. The implemented data structures include Array, Stack, Queue, Circular Queue, Singly Linked List, and Doubly Linked List.
 
@@ -27,7 +27,7 @@ Explore the graphical interface to interact with different data structures.
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests with any improvements, suggestions, or bug fixes.
 
-#Output
+# Output
 
 ![main](https://github.com/SRAJANNAIK7/Data-Structure-Mini-Project/assets/105223888/9ed30dae-f71d-4f22-b277-0bac7591987f)
 
